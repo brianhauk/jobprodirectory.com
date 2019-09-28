@@ -1,0 +1,41 @@
+/* Put your custom css here */
+
+
+/*    padding: 25px 50px 75px 100px;
+        top padding is 25px
+        right padding is 50px
+        bottom padding is 75px
+        left padding is 100px */
+		
+/* padding: 33px 0px 20px 0px; is the last selection */		
+
+header.page-header {
+    padding: 33px 0px 10px 0px;
+    margin: 0;
+}
+
+/*** pricing table ***/
+.pricingBloc.focusPlan {
+	margin-top:0;
+	border-color:#D1D1D1;
+}
+.pricingBloc.focusPlan h2{
+	background-color:#333;
+	color:#fff!important;
+}
+.pricingBloc.focusPlan h3 {
+	background-color:#538BAF ;
+	padding:1.25em;
+	color:#fff!important;
+}
+
+.pricingBloc p {
+    margin-bottom:1em;
+	margin-top:1.5em;
+    padding:0px 0px 0px 0px; /* top right bottom left */
+}
+
+/* Color glyphicon-ok green */
+.txt-green {
+    color:green!important;
+}
